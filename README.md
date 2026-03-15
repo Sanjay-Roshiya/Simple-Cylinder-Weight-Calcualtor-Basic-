@@ -36,7 +36,7 @@ Volume of cylinder:
 ×
 𝐿
 Volume=π×(d/2)
-2
+^2
 ×L
 
 Where
